@@ -1,3 +1,5 @@
+[![paypal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?business=QMDXUKQXRT75N&currency_code=CAD)
+
 # Daily Dilbert
 
 This is a Google App Script (GAS) to retrieve today's Dilbert comic from their website
